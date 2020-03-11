@@ -1,0 +1,12 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="TIFFTAG_COPYRIGHT">(C) COPYRIGHT 2016 DigitalGlobe, Inc., Longmont CO USA 80503</MDI>
+    <MDI key="TIFFTAG_DATETIME">2016:03:30 20:34:36</MDI>
+    <MDI key="TIFFTAG_IMAGEDESCRIPTION">{
+  bandList = 
+  [
+    1;
+  ]
+}</MDI>
+  </Metadata>
+</PAMDataset>
